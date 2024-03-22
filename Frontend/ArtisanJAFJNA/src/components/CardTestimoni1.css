@@ -1,0 +1,164 @@
+.bg-quote-inner,
+.bg-quote2 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.bg-quote-inner {
+  border-radius: 6px;
+  background-color: rgba(238, 221, 204, 0.3);
+  border: 1px solid #edc;
+  box-sizing: border-box;
+}
+.bg-quote2 {
+  margin: 0 !important;
+}
+.comfortable-and-met2 {
+  flex: 1;
+  position: relative;
+  line-height: 157%;
+  text-transform: capitalize;
+  font-weight: 900;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.comfortable-and-met-all-my-exp-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2.625rem 0 2.606rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor5 {
+  flex: 1;
+  position: relative;
+  line-height: 1.875rem;
+  text-transform: capitalize;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.lorem-ipsum-dolor-sit-amet-co-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 1.063rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 0.875rem;
+  color: rgba(52, 37, 31, 0.8);
+}
+.ellipse-icon {
+  height: 5.575rem;
+  width: 5.575rem;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.ellipse-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.75rem 0 0.938rem;
+}
+.anisa-zahra2,
+.founder-milenial2 {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  z-index: 1;
+}
+.anisa-zahra2 {
+  align-self: stretch;
+  min-width: 7.25rem;
+}
+.founder-milenial2 {
+  width: 6.5rem;
+  line-height: 1.5rem;
+  min-width: 6.5rem;
+}
+.founder-milenial-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.338rem 0 0.438rem;
+  font-size: 0.875rem;
+  color: rgba(52, 37, 31, 0.5);
+}
+.anisa-zahra-parent,
+.frame-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.anisa-zahra-parent {
+  align-self: stretch;
+  gap: 0.55rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.frame-parent2 {
+  width: 7.25rem;
+  gap: 1.037rem;
+}
+.cardtestimoni-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0.188rem 0 0;
+  font-size: 1rem;
+}
+.cardtestimoni2 {
+  width: 40.319rem;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 2.531rem 4.538rem 2.531rem 4.563rem;
+  box-sizing: border-box;
+  position: relative;
+  gap: 1.531rem;
+  debug_commit: f6aba90;
+  text-align: center;
+  font-size: 1.125rem;
+  color: #34251f;
+  font-family: Lato;
+}
+@media screen and (max-width: 900px) {
+  .cardtestimoni2,
+  .comfortable-and-met-all-my-exp-container {
+    padding-left: 1.313rem;
+    padding-right: 1.313rem;
+    box-sizing: border-box;
+  }
+  .cardtestimoni2 {
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cardtestimoni2 {
+    padding-top: 1.625rem;
+    padding-bottom: 1.625rem;
+    box-sizing: border-box;
+  }
+}

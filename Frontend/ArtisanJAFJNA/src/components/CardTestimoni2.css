@@ -1,0 +1,95 @@
+.bg-quote-item,
+.bg-quote1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.bg-quote-item {
+  border-radius: 6px;
+  background-color: rgba(238, 221, 204, 0.3);
+  border: 1px solid #edc;
+  box-sizing: border-box;
+}
+.bg-quote1 {
+  margin: 0 !important;
+}
+.comfortable-and-met1 {
+  flex: 1;
+  position: relative;
+  line-height: 157%;
+  text-transform: capitalize;
+  font-weight: 900;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.comfortable-and-met-all-my-exp-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2.625rem 0 2.606rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor4 {
+  flex: 1;
+  position: relative;
+  line-height: 1.875rem;
+  text-transform: capitalize;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.cardtestimoni1,
+.lorem-ipsum-dolor-sit-amet-co-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.lorem-ipsum-dolor-sit-amet-co-container {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 1.063rem;
+  max-width: 100%;
+  font-size: 0.875rem;
+  color: rgba(52, 37, 31, 0.8);
+}
+.cardtestimoni1 {
+  width: 40.319rem;
+  flex-shrink: 0;
+  flex-direction: column;
+  padding: 2.531rem 4.537rem 2.531rem 4.563rem;
+  position: relative;
+  gap: 1.531rem;
+  debug_commit: f6aba90;
+  text-align: center;
+  font-size: 1.125rem;
+  color: #34251f;
+  font-family: Lato;
+}
+@media screen and (max-width: 900px) {
+  .cardtestimoni1,
+  .comfortable-and-met-all-my-exp-wrapper {
+    padding-left: 1.313rem;
+    padding-right: 1.313rem;
+    box-sizing: border-box;
+  }
+  .cardtestimoni1 {
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cardtestimoni1 {
+    padding-top: 1.625rem;
+    padding-bottom: 1.625rem;
+    box-sizing: border-box;
+  }
+}

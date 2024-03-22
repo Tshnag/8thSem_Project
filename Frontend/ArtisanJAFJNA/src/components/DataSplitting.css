@@ -1,0 +1,32 @@
+.quality-1-icon {
+  height: 1.625rem;
+  width: 1.625rem;
+  position: relative;
+  object-fit: cover;
+}
+.certified-products {
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 1.08rem;
+  text-transform: uppercase;
+}
+.logic-tree {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 0.25rem;
+}
+.data-splitting {
+  height: 1.625rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 0.438rem;
+  z-index: 4;
+  text-align: left;
+  font-size: 0.875rem;
+  color: #edc;
+  font-family: Lato;
+}

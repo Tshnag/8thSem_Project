@@ -1,0 +1,34 @@
+.globe-1-icon {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+  object-fit: cover;
+}
+.en {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 800;
+  display: inline-block;
+  min-width: 1.563rem;
+}
+.data-rerouter,
+.process-combiner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-rerouter {
+  flex-direction: column;
+  padding: 0.313rem 0 0;
+}
+.process-combiner {
+  flex: 1;
+  flex-direction: row;
+  gap: 0.313rem;
+  z-index: 4;
+  text-align: left;
+  font-size: 1rem;
+  color: #34251f;
+  font-family: Lato;
+}

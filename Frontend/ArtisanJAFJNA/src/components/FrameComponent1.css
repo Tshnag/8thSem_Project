@@ -1,0 +1,171 @@
+.our-products {
+  margin: 0;
+  height: 5.519rem;
+  width: 24.113rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.our-products-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25rem 0 1.688rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.hot,
+.on-sale {
+  display: inline-block;
+}
+.hot {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 900;
+  min-width: 2.813rem;
+}
+.on-sale {
+  min-width: 5.563rem;
+}
+.new-arrival,
+.on-sale,
+.trending-now {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+.category,
+.tab-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.category {
+  flex: 1;
+  justify-content: space-between;
+  padding: 0 0 0.225rem;
+  gap: 1.25rem;
+}
+.tab-container {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 0 0 0.388rem;
+}
+.collapsible-card {
+  width: 3.913rem;
+  height: 0.175rem;
+  position: relative;
+  background-color: #34251f;
+}
+.modal-dialog {
+  align-self: stretch;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 0.475rem;
+  text-align: left;
+  font-size: 1.125rem;
+  font-family: Lato;
+}
+.button-maker,
+.form-input,
+.modal-dialog {
+  display: flex;
+  max-width: 100%;
+}
+.form-input {
+  width: 44.694rem;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 1.731rem;
+}
+.button-maker {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.625rem 0 1.25rem;
+  box-sizing: border-box;
+}
+.split-view {
+  width: 101.331rem;
+  height: 72.594rem;
+  overflow-x: auto;
+  flex-shrink: 0;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  gap: 3.556rem 2.144rem;
+  font-size: 1.25rem;
+}
+.layout-manager,
+.layout-manager-wrapper,
+.split-view {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.layout-manager {
+  width: 101.331rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 5.531rem;
+}
+.layout-manager-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 1.25rem 7.65rem 1.563rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 3.5rem;
+  color: #34251f;
+  font-family: "Frank Ruhl Libre";
+}
+@media screen and (max-width: 1300px) {
+  .layout-manager-wrapper {
+    padding-bottom: 5rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .our-products {
+    font-size: 2.813rem;
+  }
+  .category {
+    flex-wrap: wrap;
+  }
+  .split-view {
+    gap: 3.556rem 1.063rem;
+  }
+  .layout-manager {
+    gap: 2.75rem 5.531rem;
+  }
+  .layout-manager-wrapper {
+    padding-bottom: 3.25rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .our-products {
+    font-size: 2.125rem;
+  }
+  .layout-manager {
+    gap: 1.375rem 5.531rem;
+  }
+  .layout-manager-wrapper {
+    padding-bottom: 2.125rem;
+    box-sizing: border-box;
+  }
+}

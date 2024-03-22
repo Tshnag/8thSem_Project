@@ -1,0 +1,93 @@
+.bg-quote3,
+.rectangle-div {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.rectangle-div {
+  border-radius: 6px;
+  background-color: rgba(238, 221, 204, 0.3);
+  border: 1px solid #edc;
+  box-sizing: border-box;
+}
+.bg-quote3 {
+  margin: 0 !important;
+}
+.comfortable-and-met3 {
+  flex: 1;
+  position: relative;
+  line-height: 157%;
+  text-transform: capitalize;
+  font-weight: 900;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.comfortable-and-met-all-my-exp-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 2.625rem 0 2.6rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor6 {
+  align-self: stretch;
+  position: relative;
+  font-size: 0.875rem;
+  line-height: 1.875rem;
+  text-transform: capitalize;
+  color: rgba(52, 37, 31, 0.8);
+  z-index: 1;
+}
+.cardtestimoni3,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent3 {
+  align-self: stretch;
+  gap: 1.531rem;
+  max-width: 100%;
+}
+.cardtestimoni3 {
+  width: 40.319rem;
+  flex-shrink: 0;
+  padding: 2.531rem 4.538rem 2.531rem 4.563rem;
+  box-sizing: border-box;
+  position: relative;
+  gap: 2.594rem;
+  debug_commit: f6aba90;
+  text-align: center;
+  font-size: 1.125rem;
+  color: #34251f;
+  font-family: Lato;
+}
+@media screen and (max-width: 900px) {
+  .cardtestimoni3,
+  .comfortable-and-met-all-my-exp-frame {
+    padding-left: 1.313rem;
+    padding-right: 1.313rem;
+    box-sizing: border-box;
+  }
+  .cardtestimoni3 {
+    gap: 1.313rem 2.594rem;
+    padding-left: 2.25rem;
+    padding-right: 2.25rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .cardtestimoni3 {
+    padding-top: 1.625rem;
+    padding-bottom: 1.625rem;
+    box-sizing: border-box;
+  }
+}

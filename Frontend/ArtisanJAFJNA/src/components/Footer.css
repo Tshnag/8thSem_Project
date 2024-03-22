@@ -1,0 +1,114 @@
+.footer-child {
+  width: 119.888rem;
+  height: 20.65rem;
+  position: relative;
+  background-color: #413631;
+  display: none;
+  max-width: 100%;
+}
+.artworks,
+.paintings1,
+.sculptures1 {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 6.375rem;
+  z-index: 1;
+}
+.artworks,
+.sculptures1 {
+  min-width: 6.75rem;
+}
+.sculptures1 {
+  min-width: 7.438rem;
+}
+.pottery2 {
+  min-width: 5.375rem;
+}
+.contact-us,
+.faq,
+.pottery2 {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+  z-index: 1;
+}
+.contact-us {
+  line-height: 1.2rem;
+  min-width: 7.375rem;
+}
+.faq {
+  min-width: 2.375rem;
+}
+.paintings-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.artisanshub-all-right {
+  height: 2.663rem;
+  width: 27.225rem;
+  position: relative;
+  line-height: 2rem;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.property-preserver {
+  width: 46.913rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+  text-align: center;
+  font-size: 0.875rem;
+  color: rgba(255, 255, 255, 0.67);
+}
+.footer {
+  position: absolute;
+  top: 23.975rem;
+  left: 0;
+  background-color: #413631;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 8.331rem 36.444rem 3.162rem 34.631rem;
+  box-sizing: border-box;
+  gap: 5.306rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 1rem;
+  color: #fff;
+  font-family: Lato;
+}
+@media screen and (max-width: 1300px) {
+  .paintings-parent {
+    flex-wrap: wrap;
+  }
+  .footer {
+    gap: 2.625rem 5.306rem;
+    padding-left: 17.313rem;
+    padding-right: 18.188rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .footer {
+    gap: 1.313rem 5.306rem;
+    padding-left: 8.625rem;
+    padding-right: 9.063rem;
+    box-sizing: border-box;
+  }
+}

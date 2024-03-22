@@ -1,0 +1,261 @@
+.best-seller-products,
+.lorem-ipsum-dolor2 {
+  margin: 0;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  z-index: 1;
+}
+.best-seller-products {
+  align-self: stretch;
+  height: 11.194rem;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  padding-right: 0;
+}
+.lorem-ipsum-dolor2 {
+  width: 26.644rem;
+  height: 9.019rem;
+  font-size: 1.5rem;
+  line-height: 180%;
+  font-weight: 400;
+  font-family: Lato;
+  max-width: 100%;
+  padding-right: 1.25rem;
+}
+.best-seller-products-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 1.919rem;
+  max-width: 100%;
+}
+.see-more {
+  position: relative;
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+  min-width: 5.313rem;
+}
+.cta {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 2.081rem 1.25rem 2.075rem;
+  background-color: #fff;
+  flex: 1;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.cta:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #e6e6e6;
+  box-sizing: border-box;
+}
+.cta-wrapper,
+.frame-parent1,
+.frame-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cta-wrapper {
+  width: 16.281rem;
+  flex-direction: row;
+  padding: 0 0.063rem 0 0.081rem;
+  box-sizing: border-box;
+}
+.frame-parent1,
+.frame-wrapper {
+  flex-direction: column;
+}
+.frame-parent1 {
+  align-self: stretch;
+  gap: 4.594rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.frame-wrapper {
+  width: 29.65rem;
+  padding: 2.594rem 0 0;
+  box-sizing: border-box;
+  min-width: 29.65rem;
+  max-width: 100%;
+}
+.cardbest-seller-child {
+  position: absolute;
+  height: 32.91%;
+  width: 100%;
+  top: 67.11%;
+  right: 0;
+  bottom: -0.01%;
+  left: 0;
+  border-radius: 6px;
+  background-color: #fff;
+}
+.cardbest-seller-item {
+  position: absolute;
+  height: 2.23%;
+  width: 22.33%;
+  top: 78.62%;
+  right: 66.93%;
+  bottom: 19.15%;
+  left: 10.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.color-picker,
+.color-picker1 {
+  position: absolute;
+  top: 89.22%;
+  line-height: 1.813rem;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 2.375rem;
+  white-space: nowrap;
+  z-index: 1;
+}
+.color-picker {
+  left: 10.74%;
+  text-decoration: line-through;
+}
+.color-picker1 {
+  left: 24.78%;
+  color: rgba(52, 37, 31, 0.9);
+}
+.pastel-long-sleeve1 {
+  margin: 0;
+  position: absolute;
+  top: 83.46%;
+  left: 10.74%;
+  font-size: 1.5rem;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+  z-index: 1;
+}
+.image-icon4 {
+  position: absolute;
+  height: 71.93%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 28.07%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.cardbest-seller1 {
+  height: 44.938rem;
+  width: 30.319rem;
+  position: relative;
+  flex-shrink: 0;
+  opacity: 0.5;
+  max-width: 100%;
+  z-index: 1;
+  font-size: 1rem;
+  color: rgba(194, 10, 10, 0.2);
+  font-family: Lato;
+}
+.cardbest-seller-parent,
+.frame-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cardbest-seller-parent {
+  height: 44.938rem;
+  width: 74.975rem;
+  overflow-x: auto;
+  flex-shrink: 0;
+  gap: 2.091rem;
+  min-width: 74.975rem;
+  debug_commit: f6aba90;
+  font-size: 1.5rem;
+  color: #34251f;
+}
+.frame-container {
+  padding: 0 0 11.194rem 1.25rem;
+  box-sizing: border-box;
+  gap: 2.762rem;
+  max-width: 100%;
+  text-align: left;
+  font-size: 4.5rem;
+  color: #fff;
+  font-family: "Frank Ruhl Libre";
+}
+@media screen and (max-width: 1650px) {
+  .cardbest-seller-parent,
+  .frame-wrapper {
+    flex: 1;
+  }
+  .frame-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .cardbest-seller-parent {
+    min-width: 100%;
+  }
+  .frame-container {
+    padding-bottom: 7.25rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .best-seller-products {
+    font-size: 3.625rem;
+  }
+  .best-seller-products-parent {
+    gap: 0.938rem 1.919rem;
+  }
+  .frame-parent1 {
+    gap: 2.313rem 4.594rem;
+  }
+  .frame-wrapper {
+    padding-top: 1.688rem;
+    box-sizing: border-box;
+    min-width: 100%;
+  }
+  .cardbest-seller-parent {
+    gap: 2.088rem 1.063rem;
+  }
+  .frame-container {
+    gap: 2.763rem 1.375rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .best-seller-products {
+    font-size: 2.688rem;
+  }
+  .lorem-ipsum-dolor2 {
+    font-size: 1.188rem;
+    line-height: 2.188rem;
+  }
+  .pastel-long-sleeve1 {
+    font-size: 1.188rem;
+  }
+  .frame-container {
+    padding-bottom: 4.688rem;
+    box-sizing: border-box;
+  }
+}

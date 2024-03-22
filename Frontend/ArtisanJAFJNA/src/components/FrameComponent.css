@@ -1,0 +1,73 @@
+.distorter-icon {
+  height: 5.575rem;
+  width: 5.575rem;
+  position: relative;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 1;
+}
+.shear-sheet {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.413rem 0 0.5rem;
+}
+.anisa-zahra1 {
+  width: 5.375rem;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 5.375rem;
+  z-index: 1;
+}
+.anisa-zahra-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0.625rem 0 0.525rem;
+}
+.founder-milenial1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  text-transform: capitalize;
+  color: rgba(52, 37, 31, 0.5);
+  display: inline-block;
+  min-width: 6.5rem;
+  z-index: 1;
+}
+.flipper,
+.reflector {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.flipper {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 0.55rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.reflector {
+  width: 6.5rem;
+  align-items: flex-end;
+  gap: 1.037rem;
+}
+.reflector-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0.125rem 0 0;
+  text-align: center;
+  font-size: 1rem;
+  color: #34251f;
+  font-family: Lato;
+}

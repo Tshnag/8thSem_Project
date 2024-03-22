@@ -1,0 +1,80 @@
+.bg-quote-child {
+  border-radius: 6px;
+  background-color: rgba(238, 221, 204, 0.3);
+  border: 1px solid #edc;
+  box-sizing: border-box;
+}
+.bg-quote,
+.bg-quote-child {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.layer-liaison-icon {
+  position: absolute;
+  height: 19.8%;
+  width: 13.83%;
+  top: 56.04%;
+  right: 43.08%;
+  bottom: 24.17%;
+  left: 43.09%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor3 {
+  position: absolute;
+  width: 77.43%;
+  top: 26.85%;
+  left: 11.32%;
+  line-height: 1.875rem;
+  text-transform: capitalize;
+  color: rgba(52, 37, 31, 0.8);
+  display: inline-block;
+  z-index: 1;
+}
+.comfortable-and-met {
+  width: 64.46%;
+  top: 8.99%;
+  left: 17.78%;
+  font-size: 1.125rem;
+  line-height: 157%;
+  font-weight: 900;
+  display: inline-block;
+  z-index: 1;
+}
+.anisa-zahra,
+.comfortable-and-met,
+.founder-milenial {
+  position: absolute;
+  text-transform: capitalize;
+}
+.anisa-zahra {
+  top: 79.52%;
+  left: 43.13%;
+  font-size: 1rem;
+}
+.founder-milenial {
+  top: 85.69%;
+  left: 41.82%;
+  line-height: 1.5rem;
+  color: rgba(52, 37, 31, 0.5);
+}
+.cardtestimoni {
+  margin-left: -42.131rem;
+  height: 28.163rem;
+  width: 40.319rem;
+  position: relative;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  text-align: center;
+  font-size: 0.875rem;
+  color: #34251f;
+  font-family: Lato;
+}

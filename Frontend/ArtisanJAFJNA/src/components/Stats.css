@@ -1,0 +1,222 @@
+.stats-child,
+.stats-item {
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.stats-child {
+  height: 9.594rem;
+  width: 53.569rem;
+  background-color: rgba(52, 37, 31, 0.12);
+  filter: blur(95px);
+}
+.stats-item {
+  height: 14.063rem;
+  width: 60.075rem;
+  background-color: #fff;
+}
+.image-segmenter {
+  height: 6.344rem;
+  flex: 1;
+  position: relative;
+  line-height: 4.875rem;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+}
+.image-segmenter-wrapper {
+  align-self: stretch;
+  height: 5.694rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1.375rem 0 1.563rem;
+  box-sizing: border-box;
+}
+.artisanshub-founded {
+  align-self: stretch;
+  height: 2.6rem;
+  position: relative;
+  font-size: 1.125rem;
+  line-height: 180%;
+  text-transform: capitalize;
+  font-family: Lato;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+}
+.frame-parent {
+  width: 10.163rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.frame-inner {
+  width: 0.063rem;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid #34251f;
+  box-sizing: border-box;
+  opacity: 0.12;
+  z-index: 2;
+}
+.stats-inner {
+  height: 6.419rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.869rem 0.581rem 0 0;
+  box-sizing: border-box;
+}
+.b {
+  font-family: Lato;
+}
+.branching-logic,
+.product-sold {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+}
+.branching-logic {
+  align-self: stretch;
+  height: 6.344rem;
+  line-height: 4.875rem;
+}
+.product-sold {
+  height: 2.6rem;
+  flex: 1;
+  line-height: 180%;
+}
+.branching-logic-parent,
+.product-sold-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.product-sold-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0.625rem 0 0.569rem;
+  margin-top: -0.65rem;
+  font-size: 1.125rem;
+  font-family: Lato;
+}
+.branching-logic-parent {
+  width: 10.075rem;
+  flex-direction: column;
+  padding: 0 0.562rem 0 0;
+  box-sizing: border-box;
+}
+.line-div {
+  width: 0.063rem;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid #34251f;
+  box-sizing: border-box;
+  opacity: 0.12;
+  z-index: 2;
+}
+.frame-div {
+  height: 6.419rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1.869rem 0.506rem 0 0;
+  box-sizing: border-box;
+}
+.b1 {
+  font-family: Lato;
+}
+.best-reviews,
+.branching-logic1 {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+  z-index: 2;
+}
+.branching-logic1 {
+  align-self: stretch;
+  height: 6.344rem;
+  line-height: 4.875rem;
+}
+.best-reviews {
+  height: 2.6rem;
+  flex: 1;
+  line-height: 180%;
+}
+.best-reviews-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.244rem 0 0.25rem;
+  margin-top: -0.65rem;
+  font-size: 1.125rem;
+  font-family: Lato;
+}
+.branching-logic-group {
+  width: 9.025rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.stats {
+  flex: 1;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 2.6rem 6.063rem 3.169rem 4.631rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: 1.25rem;
+  z-index: 1;
+  text-align: center;
+  font-size: 2.5rem;
+  color: #34251f;
+  font-family: "Frank Ruhl Libre";
+}
+@media screen and (max-width: 1300px) {
+  .stats {
+    padding-left: 2.313rem;
+    padding-right: 3rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .branching-logic,
+  .branching-logic1,
+  .image-segmenter {
+    font-size: 2rem;
+    line-height: 3.875rem;
+  }
+  .stats {
+    justify-content: center;
+    padding-right: 1.5rem;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .branching-logic,
+  .branching-logic1,
+  .image-segmenter {
+    font-size: 1.5rem;
+    line-height: 2.938rem;
+  }
+}

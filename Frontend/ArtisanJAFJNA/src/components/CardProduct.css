@@ -1,0 +1,107 @@
+.image-icon5 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.rating-icon {
+  height: 1.069rem;
+  width: 7.206rem;
+  position: relative;
+}
+.tabbed-area {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 1.638rem 0 1.625rem;
+}
+.pastel-long-sleeve2 {
+  align-self: stretch;
+  position: relative;
+}
+.div,
+.symbol-sorter {
+  width: 2.063rem;
+  position: relative;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 2.063rem;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.div {
+  text-decoration: line-through;
+}
+.symbol-sorter {
+  color: rgba(52, 37, 31, 0.9);
+  white-space: nowrap;
+}
+.price,
+.price-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.price {
+  flex: 1;
+  justify-content: space-between;
+  gap: 1.25rem;
+}
+.price-wrapper {
+  align-self: stretch;
+  justify-content: flex-start;
+  padding: 0 2.5rem 0 2.362rem;
+  font-size: 0.875rem;
+  color: rgba(194, 10, 10, 0.2);
+  font-family: Lato;
+}
+.flexible-grid,
+.navigator {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.flexible-grid {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: 0.956rem;
+}
+.navigator {
+  width: 10.5rem;
+  align-items: flex-end;
+  gap: 1.244rem;
+}
+.stepper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25rem;
+}
+.cardproduct {
+  height: 34.519rem;
+  width: 23.625rem;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 0 0 0.662rem;
+  box-sizing: border-box;
+  gap: 2.044rem;
+  text-align: center;
+  font-size: 1.25rem;
+  color: #34251f;
+  font-family: "Frank Ruhl Libre";
+}
+@media screen and (max-width: 450px) {
+  .pastel-long-sleeve2 {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,318 @@
+.best-product-since,
+.lorem-ipsum-dolor {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.best-product-since {
+  margin: 0;
+  align-self: stretch;
+  height: 12.681rem;
+  font-size: inherit;
+  line-height: 4.875rem;
+  font-weight: 700;
+  font-family: inherit;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor {
+  height: 14.631rem;
+  flex: 1;
+  line-height: 180%;
+  max-width: 100%;
+}
+.best-product-since-2024-parent,
+.lorem-ipsum-dolor-sit-amet-co-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.lorem-ipsum-dolor-sit-amet-co-wrapper {
+  width: 36.581rem;
+  flex-direction: row;
+  padding: 0 0.188rem 0 0.162rem;
+  box-sizing: border-box;
+  font-size: 1.25rem;
+  font-family: Lato;
+}
+.best-product-since-2024-parent {
+  width: 43.081rem;
+  flex-direction: column;
+  gap: 2.844rem;
+}
+.input-collector,
+.variable-pool {
+  width: 64.706rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25rem 3.281rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.input-collector {
+  width: 62.675rem;
+  justify-content: flex-end;
+  padding: 0 1.3rem 8.731rem 1.313rem;
+}
+.bg-icon {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  max-height: 100%;
+  width: 125rem;
+}
+.indicator-icon {
+  position: absolute;
+  top: 57.313rem;
+  left: 54.5rem;
+  width: 8.1rem;
+  height: 1.088rem;
+  z-index: 1;
+}
+.bg-parent {
+  width: 100%;
+  height: 63.538rem;
+  position: absolute;
+  margin: 0 !important;
+  top: 196.125rem;
+  right: 0;
+  left: 0;
+}
+.discount-icon {
+  width: 91.525rem;
+  position: relative;
+  max-height: 100%;
+  max-width: 100%;
+}
+.discount-wrapper {
+  width: 119.35rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25rem 5.775rem;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.what-people-say {
+  margin: 0;
+  height: 4.488rem;
+  width: 41.263rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.what-people-say-about-us-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 1.25rem;
+  box-sizing: border-box;
+  max-width: 100%;
+  flex-shrink: 0;
+}
+.lorem-ipsum-dolor1 {
+  align-self: stretch;
+  height: 2.606rem;
+  position: relative;
+  font-size: 1.25rem;
+  line-height: 180%;
+  text-transform: capitalize;
+  font-family: Lato;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.square-sequencer,
+.triangle-tracker {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.square-sequencer {
+  width: 70.8rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 1.45rem;
+}
+.triangle-tracker {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 3.188rem 0 1.25rem;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: 3rem;
+  color: #34251f;
+  font-family: "Frank Ruhl Libre";
+}
+.indicator-icon1,
+.path-parser {
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.path-parser {
+  width: 120rem;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17.819rem;
+  box-sizing: border-box;
+  gap: 1.813rem;
+  max-width: 100%;
+}
+.indicator-icon1 {
+  height: 0.725rem;
+  width: 5.4rem;
+  position: relative;
+}
+.arcs-architect,
+.locker {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.locker {
+  width: 118.063rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 1.25rem;
+}
+.arcs-architect {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0.275rem;
+  gap: 3.469rem;
+}
+.path-provoker-icon,
+.path-provoker-icon1 {
+  position: absolute;
+  top: 0;
+  width: 23.975rem;
+  height: 23.975rem;
+  object-fit: cover;
+  z-index: 2;
+}
+.path-provoker-icon {
+  left: 0;
+}
+.path-provoker-icon1 {
+  left: 95.913rem;
+}
+.link-liaison {
+  height: 44.625rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.revealer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0.112rem 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.landing-page-artisanshub {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 3.475rem;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 4.25rem;
+  color: #34251f;
+  font-family: "Frank Ruhl Libre";
+}
+@media screen and (max-width: 1300px) {
+  .path-parser,
+  .triangle-tracker {
+    padding-right: 1.563rem;
+    box-sizing: border-box;
+  }
+  .path-parser {
+    padding-left: 8.875rem;
+    padding-right: 8.875rem;
+  }
+  .link-liaison {
+    height: auto;
+    min-height: 714;
+  }
+}
+@media screen and (max-width: 900px) {
+  .best-product-since {
+    font-size: 3.375rem;
+    line-height: 3.875rem;
+  }
+  .best-product-since-2024-parent {
+    gap: 1.438rem 2.844rem;
+  }
+  .discount-wrapper,
+  .variable-pool {
+    padding-bottom: 2.125rem;
+    box-sizing: border-box;
+  }
+  .discount-wrapper {
+    padding-bottom: 3.75rem;
+  }
+  .what-people-say {
+    font-size: 2.375rem;
+  }
+  .path-parser {
+    padding-left: 4.438rem;
+    padding-right: 4.438rem;
+    box-sizing: border-box;
+  }
+  .arcs-architect {
+    gap: 1.75rem 3.469rem;
+  }
+  .landing-page-artisanshub {
+    gap: 1.75rem 3.475rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .best-product-since {
+    font-size: 2.563rem;
+    line-height: 2.938rem;
+  }
+  .lorem-ipsum-dolor {
+    font-size: 1rem;
+    line-height: 1.813rem;
+  }
+  .input-collector {
+    padding-bottom: 5.688rem;
+    box-sizing: border-box;
+  }
+  .what-people-say {
+    font-size: 1.813rem;
+  }
+  .lorem-ipsum-dolor1 {
+    font-size: 1rem;
+    line-height: 1.813rem;
+  }
+  .path-parser {
+    padding-left: 1.25rem;
+    padding-right: 1.25rem;
+    box-sizing: border-box;
+  }
+}
