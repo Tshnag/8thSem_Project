@@ -9,8 +9,14 @@ const LogicTree = () => {
     // Please sync "Become a Seller" to the project
   }, []);
 
-  const htmlFile = `
-  https://arid-aware00.vercel.app/
+  const signUp = `
+  https://waghmarearyan.github.io/SignUP/
+  `
+  const login = `
+  https://tshnag.github.io/Login/
+  `
+  const becomeSeller = `
+  https://tshnag.github.io/Bes/
   `
 
   return (
@@ -89,17 +95,21 @@ const LogicTree = () => {
               <div className="resilient">
                 <button className="login">
                   <b onClick={() => {
-                    window.open(htmlFile, '_blank')
-                  }} className="login1">Login</b>s
+                    window.open(login, '_blank')
+                  }} className="login1">Login</b>
                 </button>
               </div>
               <button className="sign-up">
-                <b className="sign-up1">SIGN UP</b>
+                <b onClick={() => {
+                    window.open(signUp, '_blank')
+                  }} className="sign-up1">SIGN UP</b>
               </button>
               <button className="sign-up2" onClick={onSignUp1Click}>
                 <img className="storefront-icon" alt="" src="/storefront.svg" />
                 <div className="function-chain">
-                  <b className="become-a-seller">Become A Seller</b>
+                  <b onClick={() => {
+                    window.open(becomeSeller, '_blank')
+                  }} className="become-a-seller">Become A Seller</b>
                 </div>
               </button>
             </div>

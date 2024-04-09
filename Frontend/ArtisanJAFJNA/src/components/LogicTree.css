@@ -699,6 +699,26 @@
   height: 46.5rem;
   z-index: 1;
 }
+
+/* //Added by T */
+.left-carousal-b {
+  position: absolute;
+  font-size: 30px;
+  top: 9em;
+  left: 3em;
+  z-index: 4;
+  cursor: pointer;
+}
+.right-carousal-b {
+  position: absolute;
+  font-size: 30px;
+  top: 9em;
+  right: 3em;
+  z-index: 4;
+  cursor: pointer;
+}
+/* till here T*/
+
 .carousel-dots-icon {
   position: absolute;
   top: 42.513rem;
