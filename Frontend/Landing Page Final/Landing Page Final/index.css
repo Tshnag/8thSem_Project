@@ -1,0 +1,3070 @@
+.meet-the-team {
+  margin: 0;
+  position: absolute;
+  top: 22px;
+  left: 830px;
+  font-size: 32px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: inherit;
+  color: #413531;
+}
+.tree-structure-icon,
+.tree-structure-icon1 {
+  position: absolute;
+  top: 114px;
+  left: 250px;
+  border-radius: 5px;
+  width: 171px;
+  height: 171px;
+  object-fit: cover;
+}
+.tree-structure-icon1 {
+  left: 875px;
+}
+.name-aryan {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.dept-cse,
+.roll-no-25 {
+  margin: 0;
+}
+.name-aryan-waghmare-container {
+  position: absolute;
+  top: 133px;
+  left: 447px;
+  text-transform: capitalize;
+}
+.dept-cse1,
+.name-tushar,
+.roll-no-67 {
+  margin: 0;
+}
+.name-tushar-container {
+  position: absolute;
+  top: 133px;
+  left: 1072px;
+  text-transform: capitalize;
+}
+.dept-cse2,
+.name-ujjwal-gupta,
+.roll-no-68 {
+  margin: 0;
+}
+.name-ujjwal-gupta-container {
+  position: absolute;
+  top: 133px;
+  left: 1656px;
+  text-transform: capitalize;
+}
+.tree-structure-icon2 {
+  position: absolute;
+  top: 114px;
+  left: 1459px;
+  border-radius: 5px;
+  width: 171px;
+  height: 171px;
+  object-fit: cover;
+}
+.connection-matrix,
+.message {
+  position: absolute;
+  overflow: hidden;
+}
+.connection-matrix {
+  width: 100%;
+  top: 7366px;
+  left: 0;
+  background-color: #edc;
+  max-width: 100%;
+  text-align: left;
+  font-size: 17px;
+  color: #000;
+  font-family: Monda;
+}
+.message {
+  top: 230px;
+  left: 881px;
+  width: 24px;
+  height: 24px;
+}
+.artisanshub-website1 {
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d9d9d9;
+  width: 1920px;
+  max-width: 100%;
+}
+.bg-icon,
+.cta-child,
+.hero-image-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.cta-child,
+.hero-image-icon {
+  top: 274.8px;
+  left: 942.7px;
+}
+.cta-child {
+  top: 42px;
+  left: 26.7px;
+  background-color: #34251f;
+  filter: blur(41px);
+  width: 248px;
+  height: 42px;
+  opacity: 0.9;
+}
+.shop-now {
+  position: relative;
+  font-size: 18px;
+  line-height: 32px;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: Lato;
+  color: #fff;
+  text-align: left;
+  display: inline-block;
+  min-width: 101px;
+}
+.cta,
+.shop-now-wrapper {
+  position: absolute;
+  left: 0;
+}
+.shop-now-wrapper {
+  width: 100%;
+  top: 0;
+  border-radius: 16px;
+  background-color: #34251f;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 20px;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.cta {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 486px;
+  width: 297.3px;
+  height: 84px;
+}
+.discover-unique-handmade,
+.enter-the-world,
+.pottery {
+  position: absolute;
+  text-transform: capitalize;
+  color: #34251f;
+  text-align: left;
+}
+.discover-unique-handmade {
+  margin: 0;
+  top: 277px;
+  left: 1px;
+  font-size: 24px;
+  line-height: 180%;
+  font-weight: 400;
+  font-family: Lato;
+  display: inline-block;
+  width: 625px;
+  max-width: 100%;
+}
+.enter-the-world,
+.pottery {
+  line-height: 80px;
+  font-family: "Frank Ruhl Libre";
+}
+.enter-the-world {
+  margin: 0;
+  width: 100%;
+  top: 0;
+  left: 1.3px;
+  font-size: 74px;
+  font-weight: 700;
+  display: inline-block;
+  height: 295.2px;
+}
+.pottery {
+  top: 429.6px;
+  left: 1329.3px;
+  font-size: 45px;
+  display: none;
+  width: 201.3px;
+  height: 96px;
+}
+.headline {
+  position: absolute;
+  top: 342px;
+  left: 180px;
+  width: 738.7px;
+  height: 570px;
+}
+.collection,
+.kids,
+.men,
+.trends,
+.woman {
+  height: 19px;
+  position: relative;
+  font-size: 16px;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 900;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+  display: inline-block;
+}
+.header,
+.menu {
+  position: absolute;
+  max-width: 100%;
+}
+.menu {
+  top: 970.8px;
+  left: 256px;
+  width: 704px;
+  display: none;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42.3px;
+  min-height: 23px;
+}
+.header {
+  width: 100%;
+  top: 0;
+  left: 0;
+}
+.carousel-dots-icon {
+  position: absolute;
+  top: 955px;
+  left: 1379px;
+  width: 58px;
+  height: 13px;
+}
+.data-transformer,
+.data-transformer1,
+.data-transformer2,
+.iteration-loop {
+  position: absolute;
+  top: 44px;
+  left: 0;
+  background-color: #edc;
+  width: 1920px;
+  height: 112px;
+  max-width: 100%;
+}
+.data-transformer,
+.data-transformer1,
+.data-transformer2 {
+  height: 100%;
+  top: 156px;
+  border: 1px solid #34251f;
+  box-sizing: border-box;
+}
+.data-transformer1,
+.data-transformer2 {
+  top: 0;
+  background-color: #34251f;
+  height: 44px;
+}
+.data-transformer2 {
+  border: 1px solid #000;
+  outline: 0;
+  background-color: #fff;
+  top: 156px;
+  width: 361px;
+  height: 43px;
+}
+.all-category,
+.location,
+.xxyyzz {
+  position: absolute;
+  font-size: 16px;
+  text-transform: uppercase;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+}
+.all-category {
+  top: 168px;
+  left: 67px;
+  letter-spacing: 0.08em;
+  line-height: 19.2px;
+  font-weight: 600;
+}
+.location,
+.xxyyzz {
+  top: 81px;
+  left: 633px;
+  letter-spacing: 0.12em;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 99px;
+}
+.xxyyzz {
+  top: 101px;
+  font-weight: 800;
+  min-width: 76px;
+}
+.link-designer {
+  border: 1px solid #34251f;
+  outline: 0;
+  background-color: #fff;
+  position: absolute;
+  top: 84px;
+  left: 34px;
+  border-radius: 19px;
+  box-sizing: border-box;
+  width: 479px;
+  height: 35px;
+  max-width: 100%;
+}
+.symbol-generator {
+  position: absolute;
+  top: 85px;
+  left: 430px;
+  border-radius: 24px;
+  background-color: #34251f;
+  width: 83px;
+  height: 33px;
+}
+.search-1-icon {
+  position: absolute;
+  top: 92px;
+  left: 462px;
+  width: 18px;
+  height: 18px;
+  object-fit: cover;
+}
+.en,
+.type-and-hit {
+  position: absolute;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-family: Lato;
+  text-align: left;
+}
+.type-and-hit {
+  width: 100%;
+  top: 86px;
+  left: calc(50% - 908px);
+  font-size: 13px;
+  color: #717171;
+  display: flex;
+  align-items: center;
+  height: 32px;
+  min-width: 125px;
+  max-width: 100%;
+}
+.en {
+  top: 16.67%;
+  left: 60%;
+  font-size: 16px;
+  font-weight: 800;
+  color: #34251f;
+  display: inline-block;
+  min-width: 25px;
+}
+.globe-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 50%;
+  top: 0;
+  right: 50%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.menu-1-icon,
+.process-combiner {
+  position: absolute;
+  top: 81px;
+  left: 1132px;
+}
+.menu-1-icon {
+  top: 165px;
+  left: 244px;
+  width: 24px;
+  height: 25px;
+  object-fit: cover;
+  min-height: 25px;
+}
+.paintings {
+  position: absolute;
+  left: 419px;
+  text-transform: uppercase;
+  font-family: Lato;
+  text-align: left;
+  min-width: 96px;
+}
+.artwork,
+.paintings,
+.sculptures {
+  top: 168px;
+  font-size: 16px;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  color: #000;
+  display: inline-block;
+}
+.artwork {
+  position: absolute;
+  left: 600px;
+  text-transform: uppercase;
+  font-family: Lato;
+  text-align: left;
+  min-width: 92px;
+}
+.sculptures {
+  left: 755px;
+  min-width: 112px;
+}
+.free-shipping-online,
+.handcrafted-jewellery,
+.pottery1,
+.sculptures {
+  position: absolute;
+  text-transform: uppercase;
+  font-family: Lato;
+  text-align: left;
+}
+.pottery1 {
+  top: 168px;
+  left: 943px;
+  font-size: 16px;
+  letter-spacing: 0.08em;
+  font-weight: 600;
+  color: #000;
+  display: inline-block;
+  min-width: 81px;
+}
+.free-shipping-online,
+.handcrafted-jewellery {
+  white-space: pre-wrap;
+}
+.handcrafted-jewellery {
+  top: 168px;
+  left: 1103px;
+  font-size: 16px;
+  letter-spacing: 0.08em;
+  line-height: 19.2px;
+  font-weight: 600;
+  color: #000;
+}
+.free-shipping-online {
+  top: 14px;
+  left: calc(50% - 234px);
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  color: #edc;
+}
+.quality-1-icon {
+  position: absolute;
+  height: 100%;
+  width: 10.92%;
+  top: 0;
+  right: 89.08%;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.certified-products {
+  position: absolute;
+  top: 19.23%;
+  left: 14.29%;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-family: Lato;
+  color: #edc;
+  text-align: left;
+}
+.data-splitting,
+.pin-1-icon {
+  position: absolute;
+  top: 9px;
+  left: 1585px;
+}
+.pin-1-icon {
+  top: 85px;
+  left: 600px;
+  width: 33px;
+  height: 33px;
+  object-fit: cover;
+}
+.login5 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: Lato;
+  color: #edc;
+  text-align: left;
+  min-width: 47px;
+}
+.login4 {
+  cursor: pointer;
+  border: 0;
+  padding: 13px;
+  background-color: #34251f;
+  position: absolute;
+  top: 74px;
+  left: 1442px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.login4:hover {
+  background-color: #665952;
+}
+.sign-up1 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+  min-width: 60px;
+}
+.sign-up {
+  cursor: pointer;
+  border: 1px solid #34251f;
+  padding: 13px 23px;
+  background-color: transparent;
+  position: absolute;
+  top: 75px;
+  right: 232px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.sign-up:hover {
+  background-color: rgba(102, 89, 82, 0.09);
+  border: 1px solid #665952;
+  box-sizing: border-box;
+}
+.storefront-icon {
+  height: 24px;
+  width: 24px;
+  position: relative;
+}
+.become-a-seller1 {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+}
+.link-selector,
+.sign-up2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.link-selector {
+  gap: 8px;
+}
+.sign-up2 {
+  cursor: pointer;
+  border: 1px solid #34251f;
+  padding: 13px 9px;
+  background-color: transparent;
+  position: absolute;
+  top: 75px;
+  right: 23px;
+  border-radius: 8px;
+}
+.inr-0000,
+.my-cart {
+  position: absolute;
+  top: 2.56%;
+  left: 34.81%;
+  font-size: 16px;
+  letter-spacing: 0.12em;
+  line-height: 19.2px;
+  text-transform: uppercase;
+  font-weight: 500;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+  display: inline-block;
+  min-width: 83px;
+}
+.inr-0000 {
+  top: 51.28%;
+  font-weight: 800;
+  min-width: 88px;
+  white-space: nowrap;
+}
+.cart-icon {
+  position: absolute;
+  height: 90.26%;
+  width: 26.52%;
+  top: 0;
+  right: 73.48%;
+  bottom: 9.74%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.function-sequencer,
+.other {
+  position: absolute;
+  top: 77px;
+  left: 1257px;
+}
+.other {
+  top: 168px;
+  left: 1418px;
+  font-size: 16px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family: Lato;
+  color: #000;
+  text-align: left;
+  display: inline-block;
+  min-width: 60px;
+}
+.header-hero-page {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 199px;
+}
+.artisanshub-website {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: 100%;
+}
+.artisanshub6 {
+  margin: 0;
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+}
+.artisanshub-logo-png-13 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 44px;
+  object-fit: cover;
+}
+.artisanshub-logo {
+  position: absolute;
+  top: 78px;
+  left: 834px;
+  width: 218px;
+  height: 47px;
+}
+.artisanshub7 {
+  margin: 0;
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 600;
+  font-family: inherit;
+}
+.artisanshub-logo-png-14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 44px;
+  object-fit: cover;
+}
+.about-us-child,
+.artisanshub-logo1 {
+  position: absolute;
+  top: 3951px;
+  left: 208px;
+  width: 218px;
+  height: 47px;
+}
+.about-us-child {
+  top: 52px;
+  left: 0;
+  width: 689.3px;
+  height: 861px;
+  object-fit: cover;
+}
+.input-splitter,
+.stats-child {
+  position: absolute;
+  max-width: 100%;
+}
+.input-splitter {
+  top: 71.5px;
+  left: 52px;
+  background-color: #34251f;
+  filter: blur(95px);
+  width: 857.1px;
+  height: 153.5px;
+  opacity: 0.12;
+}
+.stats-child {
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 961.2px;
+  height: 225px;
+}
+.artisanshub-founded,
+.image-segmenter {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 24.8px;
+  line-height: 78px;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 101.5px;
+}
+.artisanshub-founded {
+  top: 91.1px;
+  left: 0;
+  font-size: 18px;
+  line-height: 180%;
+  font-family: Lato;
+  height: 41.6px;
+}
+.image-segmenter-parent {
+  position: absolute;
+  top: 41.6px;
+  left: 74.1px;
+  width: 162.6px;
+  height: 132.7px;
+  font-size: 40px;
+  font-family: "Frank Ruhl Libre";
+}
+.product-sold {
+  width: 100%;
+  position: absolute;
+  top: 91px;
+  left: 9.1px;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 41.6px;
+}
+.b {
+  font-family: Lato;
+}
+.branching-logic {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 40px;
+  line-height: 78px;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 101.5px;
+  font-family: "Frank Ruhl Libre";
+}
+.best-reviews,
+.product-sold-parent {
+  position: absolute;
+  top: 42px;
+  left: 312px;
+  width: 152.2px;
+  height: 132.7px;
+}
+.best-reviews {
+  width: 100%;
+  top: 91px;
+  left: 3.9px;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 41.6px;
+}
+.b1 {
+  font-family: Lato;
+}
+.branching-logic1 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: 40px;
+  line-height: 78px;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 101.5px;
+  font-family: "Frank Ruhl Libre";
+}
+.best-reviews-parent {
+  position: absolute;
+  top: 42px;
+  left: 556px;
+  width: 144.4px;
+  height: 132.7px;
+}
+.stats-inner,
+.stats-item {
+  position: absolute;
+  top: 71.5px;
+  left: 312.2px;
+  border-right: 1px solid #34251f;
+  box-sizing: border-box;
+  width: 1px;
+  height: 73.8px;
+  opacity: 0.12;
+}
+.stats-inner {
+  left: 634.7px;
+}
+.stats {
+  width: 100%;
+  position: absolute;
+  top: 688.2px;
+  left: 689.4px;
+  min-height: 225px;
+  max-width: 100%;
+  flex-shrink: 0;
+  text-align: center;
+}
+.best-product-since,
+.unveil-the-charm {
+  margin: 0;
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.unveil-the-charm {
+  top: 278.2px;
+  left: 809.4px;
+  font-size: 28px;
+  line-height: 180%;
+  font-weight: 400;
+  font-family: inherit;
+  width: 580.1px;
+  height: 234.1px;
+  max-width: 100%;
+}
+.best-product-since {
+  width: 100%;
+  top: 97.5px;
+  left: 809px;
+  font-size: 68px;
+  line-height: 78px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  height: 202.9px;
+}
+.about-us,
+.vector-icon {
+  position: absolute;
+  top: 0;
+  left: 568.4px;
+  width: 173px;
+  height: 139.2px;
+}
+.about-us {
+  top: 2165.8px;
+  left: 248.6px;
+  width: 1650.5px;
+  height: 913.2px;
+  text-align: left;
+  font-size: 18px;
+  color: #34251f;
+  font-family: Lato;
+}
+.new-collection-child {
+  position: absolute;
+  top: 518.9px;
+  left: 1192.8px;
+  background-color: #edc;
+  width: 100%;
+  height: 100%;
+  opacity: 0.21;
+}
+.vector-icon1 {
+  position: absolute;
+  top: 700.8px;
+  left: 1344px;
+  width: 170.4px;
+  height: 137.1px;
+}
+.discover-our-newest,
+.discover-our-newest1 {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 90px;
+  left: 102px;
+  font-size: 24px;
+  line-height: 180%;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.discover-our-newest1 {
+  top: 3145px;
+  left: 97px;
+}
+.image-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardnewcollection-child {
+  position: absolute;
+  height: 14.39%;
+  width: 87.34%;
+  top: 80.33%;
+  right: 6.32%;
+  bottom: 5.28%;
+  left: 6.34%;
+  border-radius: 16px;
+  background-color: #34251f;
+}
+.long-sleeve {
+  position: absolute;
+  top: 84.65%;
+  left: 33.46%;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.cardnewcollection {
+  position: absolute;
+  top: 234.5px;
+  left: 497.1px;
+  height: 534.3px;
+  max-width: 100%;
+  color: #fff;
+}
+.image-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardnewcollection-item {
+  position: absolute;
+  height: 14.39%;
+  width: 87.34%;
+  top: 80.33%;
+  right: 6.32%;
+  bottom: 5.28%;
+  left: 6.34%;
+  border-radius: 16px;
+  background-color: #34251f;
+}
+.long-sleeve1 {
+  position: absolute;
+  top: 84.65%;
+  left: 39.48%;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 96px;
+}
+.cardnewcollection1 {
+  position: absolute;
+  top: 234.5px;
+  left: 994.3px;
+  height: 534.3px;
+  max-width: 100%;
+  color: #fff;
+}
+.image-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardnewcollection-inner {
+  position: absolute;
+  height: 14.39%;
+  width: 87.34%;
+  top: 80.33%;
+  right: 6.32%;
+  bottom: 5.28%;
+  left: 6.34%;
+  border-radius: 16px;
+  background-color: #34251f;
+}
+.long-sleeve2 {
+  position: absolute;
+  top: 84.65%;
+  left: 29.8%;
+  text-transform: uppercase;
+  font-weight: 900;
+}
+.cardnewcollection2 {
+  position: absolute;
+  top: 234.5px;
+  left: 0;
+  height: 534.3px;
+  max-width: 100%;
+  color: #fff;
+}
+.new-collection1 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 433.1px;
+  font-size: 68px;
+  text-transform: capitalize;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  display: inline-block;
+  width: 593.2px;
+  height: 112.8px;
+  max-width: 100%;
+}
+.new-collection {
+  position: absolute;
+  top: 1196px;
+  left: 233px;
+  width: 1558px;
+  height: 3231px;
+  text-align: center;
+  font-size: 18px;
+  color: #34251f;
+  font-family: Lato;
+}
+.bg-icon1,
+.data-merger {
+  position: absolute;
+  left: 0;
+}
+.bg-icon1 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  max-height: 100%;
+  width: 2000px;
+}
+.data-merger {
+  border: 0;
+  background-color: #fff;
+  height: 32.91%;
+  width: 100%;
+  outline: 0;
+  top: 67.11%;
+  right: 0;
+  bottom: -0.01%;
+  border-radius: 6px;
+}
+.cardbest-seller-child {
+  position: absolute;
+  height: 2.23%;
+  width: 22.33%;
+  top: 78.62%;
+  right: 66.93%;
+  bottom: 19.15%;
+  left: 10.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b2,
+.statistic-calculator {
+  position: absolute;
+  top: 89.22%;
+  line-height: 29px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 58px;
+}
+.statistic-calculator {
+  left: 10.74%;
+  text-decoration: line-through;
+  opacity: 0.2;
+}
+.b2 {
+  left: 24.8%;
+  opacity: 0.9;
+}
+.pastel-long-sleeve {
+  margin: 0;
+  position: absolute;
+  top: 83.46%;
+  left: 10.74%;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+}
+.cardbest-seller,
+.image-icon3 {
+  position: absolute;
+  width: 100%;
+  max-width: 100%;
+}
+.image-icon3 {
+  height: 71.93%;
+  top: 0;
+  right: 0;
+  bottom: 28.07%;
+  left: 0;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardbest-seller {
+  top: 136.3px;
+  left: 720.4px;
+  background-image: url(./public/cardbest-seller@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 100%;
+}
+.cardbest-seller-item {
+  border: 0;
+  background-color: #fff;
+  height: 32.91%;
+  width: 100%;
+  outline: 0;
+  position: absolute;
+  top: 67.11%;
+  right: 0;
+  bottom: -0.01%;
+  left: 0;
+  border-radius: 6px;
+}
+.cardbest-seller-inner {
+  position: absolute;
+  height: 2.23%;
+  width: 22.33%;
+  top: 78.62%;
+  right: 66.93%;
+  bottom: 19.15%;
+  left: 10.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b3,
+.div {
+  position: absolute;
+  top: 89.22%;
+  line-height: 29px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 58px;
+}
+.div {
+  left: 10.74%;
+  text-decoration: line-through;
+  color: #c20a0a;
+  opacity: 0.2;
+}
+.b3 {
+  left: 24.8%;
+  opacity: 0.9;
+}
+.pastel-long-sleeve1 {
+  margin: 0;
+  position: absolute;
+  top: 83.46%;
+  left: 10.74%;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+}
+.cardbest-seller1,
+.image-icon4 {
+  width: 100%;
+  position: absolute;
+  max-width: 100%;
+}
+.image-icon4 {
+  height: 71.93%;
+  top: 0;
+  right: 0;
+  bottom: 28.07%;
+  left: 0;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardbest-seller1 {
+  top: 136.3px;
+  left: 1238.9px;
+  height: 719px;
+}
+.cardbest-seller-child1 {
+  position: absolute;
+  height: 32.91%;
+  width: 100%;
+  top: 67.11%;
+  right: 0;
+  bottom: -0.01%;
+  left: 0;
+  border-radius: 6px;
+  background-color: #fff;
+}
+.group-icon {
+  position: absolute;
+  height: 2.23%;
+  width: 22.33%;
+  top: 78.62%;
+  right: 66.93%;
+  bottom: 19.15%;
+  left: 10.74%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.color-picker,
+.color-picker1 {
+  position: absolute;
+  top: 89.22%;
+  line-height: 29px;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 38px;
+  white-space: nowrap;
+}
+.color-picker {
+  left: 10.74%;
+  text-decoration: line-through;
+  color: #c20a0a;
+  opacity: 0.2;
+}
+.color-picker1 {
+  left: 24.8%;
+  opacity: 0.9;
+}
+.pastel-long-sleeve2 {
+  margin: 0;
+  position: absolute;
+  top: 83.46%;
+  left: 10.74%;
+  font-size: 24px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+}
+.cardbest-seller2,
+.image-icon5 {
+  position: absolute;
+  max-width: 100%;
+}
+.image-icon5 {
+  height: 71.93%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 28.07%;
+  left: 0;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.cardbest-seller2 {
+  top: 136.3px;
+  left: 1757.5px;
+  width: 485.1px;
+  height: 719px;
+  opacity: 0.5;
+}
+.indicator-icon {
+  position: absolute;
+  top: 917px;
+  left: 872px;
+  width: 129.6px;
+  height: 17.4px;
+}
+.see-more {
+  position: relative;
+  font-size: 16px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  display: inline-block;
+  font-family: Lato;
+  color: #34251f;
+  text-align: left;
+  min-width: 85px;
+}
+.cta1,
+.cta1:hover {
+  box-sizing: border-box;
+}
+.cta1 {
+  cursor: pointer;
+  border: 1px solid #fff;
+  padding: 13px 20px;
+  background-color: #fff;
+  width: 100%;
+  position: absolute;
+  top: 605.4px;
+  left: 203.1px;
+  border-radius: 16px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  white-space: nowrap;
+}
+.cta1:hover {
+  background-color: #e6e6e6;
+  border: 1px solid #e6e6e6;
+}
+.best-seller-products,
+.shop-our-top-rated {
+  margin: 0;
+  position: absolute;
+  left: 201.8px;
+  text-transform: capitalize;
+  color: #fff;
+  display: inline-block;
+  box-sizing: border-box;
+}
+.shop-our-top-rated {
+  top: 387.6px;
+  font-size: 24px;
+  line-height: 180%;
+  font-weight: 400;
+  font-family: inherit;
+  width: 426.3px;
+  height: 144.3px;
+  max-width: 100%;
+  padding-right: 20px;
+}
+.best-seller-products {
+  width: 100%;
+  top: 177.8px;
+  font-size: 72px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  height: 179.1px;
+  padding-right: 0;
+}
+.best-seller {
+  position: absolute;
+  top: 3138px;
+  left: 0;
+  width: 2242.6px;
+  height: 1016.6px;
+  text-align: left;
+  font-size: 16px;
+  color: #34251f;
+  font-family: Lato;
+}
+.div1 {
+  top: 0;
+  left: 0;
+  text-decoration: line-through;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.2;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.b4,
+.div1,
+.price {
+  position: absolute;
+}
+.b4 {
+  top: 0;
+  left: 63.29%;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.price {
+  height: 4.53%;
+  width: 23.75%;
+  top: 90.89%;
+  right: 72.82%;
+  bottom: 4.58%;
+  left: 3.43%;
+}
+.pastel-long-sleeve3 {
+  margin: 0;
+  position: absolute;
+  top: 77.86%;
+  left: 2.38%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+}
+.image-icon6,
+.rating-icon {
+  position: absolute;
+  height: 3.1%;
+  width: 24.06%;
+  top: 85.1%;
+  right: 73.56%;
+  bottom: 11.81%;
+  left: 2.38%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon6 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-parent,
+.shopping-cart-icon {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 52.56%;
+  height: 7.79%;
+  top: 89.26%;
+  right: 5.18%;
+  bottom: 2.95%;
+  left: 42.26%;
+  border-radius: 4px;
+  min-width: 129px;
+}
+.cardproduct {
+  position: absolute;
+  top: 246px;
+  left: 406px;
+  width: 378.6px;
+  height: 552.3px;
+}
+.rs-1499 {
+  width: 100%;
+  top: 0;
+  left: 0;
+  text-decoration: line-through;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.2;
+  min-width: 52px;
+}
+.price1,
+.rs-1499,
+.rs-999 {
+  position: absolute;
+}
+.rs-999 {
+  width: 100%;
+  top: 0;
+  left: 67.77%;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 43px;
+}
+.price1 {
+  height: 4.53%;
+  width: 35.24%;
+  top: 91.35%;
+  right: 61.2%;
+  bottom: 4.13%;
+  left: 3.57%;
+}
+.empower-plate {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 79.21%;
+  left: 2.77%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+  display: inline-block;
+}
+.image-icon7,
+.rating-icon1 {
+  position: absolute;
+  height: 3.1%;
+  width: 21.61%;
+  top: 85.55%;
+  right: 75.62%;
+  bottom: 11.35%;
+  left: 2.77%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon7 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart1 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-group,
+.shopping-cart-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 52.56%;
+  height: 7.79%;
+  top: 89.72%;
+  right: 2.93%;
+  bottom: 2.5%;
+  left: 44.51%;
+  border-radius: 4px;
+  min-width: 129px;
+}
+.cardproduct1 {
+  position: absolute;
+  top: 240.5px;
+  left: 828.5px;
+  width: 378.6px;
+  height: 552.3px;
+}
+.rs-1999,
+.rs1799 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.rs-1999 {
+  left: 0;
+  text-decoration: line-through;
+  opacity: 0.2;
+  min-width: 51px;
+}
+.rs1799 {
+  left: 64.18%;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 48px;
+}
+.musician-kitty,
+.price2 {
+  position: absolute;
+  left: 2.72%;
+}
+.price2 {
+  height: 4.53%;
+  width: 35.39%;
+  top: 91.35%;
+  right: 61.89%;
+  bottom: 4.13%;
+}
+.musician-kitty {
+  margin: 0;
+  width: 100%;
+  top: 80.12%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+  display: inline-block;
+}
+.image-icon8,
+.rating-icon2 {
+  position: absolute;
+  height: 3.1%;
+  width: 28%;
+  top: 86.46%;
+  right: 69.28%;
+  bottom: 10.45%;
+  left: 2.72%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon8 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart2 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-container,
+.shopping-cart-icon2 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-container {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 52.56%;
+  height: 7.79%;
+  top: 89.72%;
+  right: 4.31%;
+  bottom: 2.5%;
+  left: 43.13%;
+  border-radius: 4px;
+  min-width: 129px;
+}
+.cardproduct2 {
+  position: absolute;
+  top: 240.5px;
+  left: 1242.7px;
+  width: 378.6px;
+  height: 552.3px;
+}
+.div2,
+.rs-750 {
+  position: absolute;
+  top: 0;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.div2 {
+  left: 0;
+  text-decoration: line-through;
+  opacity: 0.2;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.rs-750 {
+  width: 100%;
+  left: 53.08%;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 45px;
+}
+.canva-lickin-good,
+.price3 {
+  position: absolute;
+  left: 3.43%;
+}
+.price3 {
+  height: 4.53%;
+  width: 25.33%;
+  top: 90.22%;
+  right: 71.24%;
+  bottom: 5.25%;
+}
+.canva-lickin-good {
+  margin: 0;
+  top: 77.73%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+}
+.image-icon9,
+.rating-icon3 {
+  position: absolute;
+  height: 3.1%;
+  width: 24.06%;
+  top: 84.79%;
+  right: 72.5%;
+  bottom: 12.11%;
+  left: 3.43%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon9 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart3 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.frame-button,
+.shopping-cart-icon3 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.frame-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 52.56%;
+  height: 7.79%;
+  top: 87.87%;
+  right: 5.97%;
+  bottom: 4.35%;
+  left: 41.47%;
+  border-radius: 4px;
+  min-width: 129px;
+}
+.cardproduct3 {
+  position: absolute;
+  top: 849.7px;
+  left: 0;
+  width: 378.6px;
+  height: 552.3px;
+}
+.div3 {
+  top: 0;
+  left: 0;
+  text-decoration: line-through;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.2;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.b5,
+.div3,
+.price4 {
+  position: absolute;
+}
+.b5 {
+  top: 0;
+  left: 63.29%;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.price4 {
+  height: 4.53%;
+  width: 23.75%;
+  top: 90.22%;
+  right: 73.93%;
+  bottom: 5.25%;
+  left: 2.32%;
+}
+.hoodiee-long-sleeve {
+  margin: 0;
+  width: 100%;
+  position: absolute;
+  top: 78.27%;
+  left: 2.32%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+  display: inline-block;
+}
+.image-icon10,
+.rating-icon4 {
+  position: absolute;
+  height: 3.1%;
+  width: 17.67%;
+  top: 84.97%;
+  right: 80.01%;
+  bottom: 11.93%;
+  left: 2.32%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon10 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart4 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-parent1,
+.shopping-cart-icon4 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-parent1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  height: 7.79%;
+  width: 52.56%;
+  top: 88.59%;
+  right: 4.17%;
+  bottom: 3.62%;
+  left: 43.26%;
+  border-radius: 4px;
+}
+.cardproduct4 {
+  position: absolute;
+  top: 849.7px;
+  left: 414.2px;
+  width: 378.6px;
+  height: 552.3px;
+}
+.div4 {
+  top: 0;
+  left: 0;
+  text-decoration: line-through;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.2;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.b6,
+.div4,
+.price5 {
+  position: absolute;
+}
+.b6 {
+  top: 0;
+  left: 63.29%;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.price5 {
+  height: 4.53%;
+  width: 23.75%;
+  top: 90.4%;
+  right: 73.75%;
+  bottom: 5.07%;
+  left: 2.51%;
+}
+.soft-toys-teddy {
+  margin: 0;
+  position: absolute;
+  top: 78.27%;
+  left: 2.25%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+}
+.image-icon11,
+.rating-icon5 {
+  position: absolute;
+  height: 3.1%;
+  width: 28%;
+  top: 85.15%;
+  right: 69.76%;
+  bottom: 11.75%;
+  left: 2.25%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon11 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart5 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-parent2,
+.shopping-cart-icon5 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-parent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  height: 7.79%;
+  width: 52.56%;
+  top: 88.77%;
+  right: 4.25%;
+  bottom: 3.44%;
+  left: 43.19%;
+  border-radius: 4px;
+}
+.cardproduct5 {
+  position: absolute;
+  top: 849.7px;
+  left: 828.5px;
+  width: 378.6px;
+  height: 552.3px;
+}
+.rs-2999,
+.rs-3999 {
+  width: 100%;
+  position: absolute;
+  top: 0;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 53.2px;
+}
+.rs-3999 {
+  left: 0;
+  text-decoration: line-through;
+  opacity: 0.2;
+}
+.rs-2999 {
+  left: 60.36%;
+  color: #34251f;
+  opacity: 0.9;
+}
+.price6 {
+  position: absolute;
+  height: 4.53%;
+  width: 35.45%;
+  top: 90.22%;
+  right: 62.89%;
+  bottom: 5.25%;
+  left: 1.66%;
+}
+.unique-dream-catcher {
+  margin: 0;
+  position: absolute;
+  top: 78.09%;
+  left: 1.66%;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  color: #34251f;
+}
+.image-icon12,
+.rating-icon6 {
+  position: absolute;
+  height: 3.1%;
+  width: 28%;
+  top: 85.33%;
+  right: 70.34%;
+  bottom: 11.57%;
+  left: 1.66%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-icon12 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  object-fit: cover;
+}
+.add-to-cart6 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-parent3,
+.shopping-cart-icon6 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-parent3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 52.56%;
+  height: 7.79%;
+  top: 88.59%;
+  right: 2.72%;
+  bottom: 3.62%;
+  left: 44.72%;
+  border-radius: 4px;
+  min-width: 129px;
+}
+.cardproduct6,
+.image-icon13 {
+  position: absolute;
+  top: 849.7px;
+  left: 1242.7px;
+  width: 378.6px;
+  height: 552.3px;
+}
+.image-icon13 {
+  width: 100%;
+  height: 73.46%;
+  top: 0;
+  right: 0;
+  bottom: 26.54%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.pastel-long-sleeve4 {
+  margin: 0;
+  position: absolute;
+  top: 78.67%;
+  left: 4.23%;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+}
+.rating-icon7 {
+  position: absolute;
+  height: 3.1%;
+  width: 28%;
+  top: 85.73%;
+  right: 67.78%;
+  bottom: 11.17%;
+  left: 4.23%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.div5 {
+  top: 0;
+  left: 0;
+  text-decoration: line-through;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.2;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.b7,
+.div5,
+.price7 {
+  position: absolute;
+}
+.b7 {
+  top: 0;
+  left: 63.29%;
+  line-height: 180%;
+  text-transform: capitalize;
+  display: inline-block;
+  color: #34251f;
+  opacity: 0.9;
+  min-width: 33px;
+  white-space: nowrap;
+}
+.price7 {
+  height: 4.53%;
+  width: 23.75%;
+  top: 92.79%;
+  right: 72.03%;
+  bottom: 2.68%;
+  left: 4.23%;
+  font-size: 14px;
+  color: #b31b1b;
+  font-family: Lato;
+}
+.add-to-cart7 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.add-to-cart-parent4,
+.shopping-cart-icon7 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.add-to-cart-parent4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 52.56%;
+  height: 7.79%;
+  top: 91.16%;
+  right: 4.91%;
+  bottom: 1.05%;
+  left: 42.53%;
+  border-radius: 4px;
+  min-width: 129px;
+}
+.cardproduct7,
+.our-products {
+  position: absolute;
+  top: 240.5px;
+  left: 0;
+  width: 378.6px;
+  height: 552.3px;
+  font-size: 20px;
+  color: #34251f;
+  font-family: "Frank Ruhl Libre";
+}
+.our-products {
+  margin: 0;
+  top: 0;
+  left: 617.8px;
+  font-size: 56px;
+  text-transform: capitalize;
+  font-weight: 700;
+  display: inline-block;
+  width: 385.8px;
+  height: 88.3px;
+  max-width: 100%;
+}
+.our-product {
+  position: absolute;
+  top: 4240px;
+  left: 149px;
+  width: 1621.3px;
+  height: 1402px;
+  text-align: center;
+  font-size: 14px;
+  color: #c20a0a;
+  font-family: Lato;
+}
+.indicator-icon1 {
+  position: absolute;
+  top: 698.4px;
+  left: 1290.3px;
+  width: 86.4px;
+  height: 11.6px;
+}
+.bg-quote-child {
+  border-radius: 6px;
+  background-color: #edc;
+  border: 1px solid #edc;
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.bg-quote,
+.bg-quote-child,
+.distorter-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.distorter-icon {
+  height: 19.8%;
+  width: 13.83%;
+  top: 56.04%;
+  right: 43.08%;
+  bottom: 24.17%;
+  left: 43.09%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor {
+  width: 100%;
+  position: absolute;
+  top: 26.85%;
+  left: 11.32%;
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.8;
+  max-width: 100%;
+}
+.comfortable-and-met {
+  width: 100%;
+  top: 8.99%;
+  left: 17.78%;
+  font-size: 18px;
+  line-height: 157%;
+  font-weight: 900;
+  max-width: 100%;
+}
+.anisa-zahra,
+.comfortable-and-met,
+.founder-milenial {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.anisa-zahra {
+  top: 79.54%;
+  left: 43.13%;
+  font-size: 16px;
+  min-width: 86px;
+}
+.founder-milenial {
+  width: 100%;
+  top: 85.71%;
+  left: 41.82%;
+  line-height: 24px;
+  opacity: 0.5;
+  min-width: 104px;
+}
+.cardtestimoni {
+  position: absolute;
+  top: 192.3px;
+  left: 674.1px;
+  width: 645.1px;
+  max-width: 100%;
+}
+.bg-quote-item {
+  border-radius: 6px;
+  background-color: #edc;
+  border: 1px solid #edc;
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.bg-quote-item,
+.bg-quote1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.cardtestimoni-child {
+  position: absolute;
+  height: 19.8%;
+  width: 13.83%;
+  top: 56.04%;
+  right: 43.08%;
+  bottom: 24.17%;
+  left: 43.09%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor1 {
+  width: 100%;
+  position: absolute;
+  top: 26.85%;
+  left: 11.32%;
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.8;
+  max-width: 100%;
+}
+.comfortable-and-met1 {
+  width: 100%;
+  top: 8.99%;
+  left: 17.78%;
+  font-size: 18px;
+  line-height: 157%;
+  font-weight: 900;
+  max-width: 100%;
+}
+.anisa-zahra1,
+.comfortable-and-met1,
+.founder-milenial1 {
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.anisa-zahra1 {
+  top: 79.54%;
+  left: 40.64%;
+  font-size: 16px;
+  line-height: 19.2px;
+  white-space: pre-wrap;
+  min-width: 118px;
+  flex-shrink: 0;
+}
+.founder-milenial1 {
+  top: 85.71%;
+  left: 41.98%;
+  line-height: 24px;
+  opacity: 0.5;
+  min-width: 104px;
+}
+.cardtestimoni1 {
+  position: absolute;
+  top: 192.3px;
+  left: 1348.2px;
+  width: 645.1px;
+  max-width: 100%;
+}
+.bg-quote-inner {
+  border-radius: 6px;
+  background-color: #edc;
+  border: 1px solid #edc;
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.bg-quote-inner,
+.bg-quote2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.layer-liaison-icon {
+  position: absolute;
+  height: 19.8%;
+  width: 13.83%;
+  top: 56.04%;
+  right: 43.08%;
+  bottom: 24.17%;
+  left: 43.09%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor2 {
+  position: absolute;
+  width: 77.43%;
+  top: 26.85%;
+  left: 11.32%;
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.8;
+}
+.comfortable-and-met2 {
+  width: 64.46%;
+  top: 8.99%;
+  left: 17.78%;
+  font-size: 18px;
+  line-height: 157%;
+  font-weight: 900;
+  display: inline-block;
+}
+.anisa-zahra2,
+.comfortable-and-met2,
+.founder-milenial2 {
+  position: absolute;
+  text-transform: capitalize;
+}
+.anisa-zahra2 {
+  top: 79.54%;
+  left: 43.13%;
+  font-size: 16px;
+}
+.founder-milenial2 {
+  top: 85.71%;
+  left: 41.82%;
+  line-height: 24px;
+  opacity: 0.5;
+}
+.cardtestimoni2 {
+  position: absolute;
+  top: 192.3px;
+  left: 0;
+  width: 645.1px;
+  height: 450.6px;
+  max-width: 100%;
+}
+.bg-quote-child1 {
+  border-radius: 6px;
+  background-color: #edc;
+  border: 1px solid #edc;
+  box-sizing: border-box;
+  opacity: 0.3;
+}
+.bg-quote-child1,
+.bg-quote3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.stroke-styler-icon {
+  position: absolute;
+  height: 19.8%;
+  width: 13.83%;
+  top: 56.04%;
+  right: 43.08%;
+  bottom: 24.17%;
+  left: 43.09%;
+  border-radius: 50%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.lorem-ipsum-dolor3 {
+  width: 100%;
+  position: absolute;
+  top: 26.85%;
+  left: 11.32%;
+  line-height: 30px;
+  text-transform: capitalize;
+  display: inline-block;
+  opacity: 0.8;
+}
+.comfortable-and-met3 {
+  top: 8.99%;
+  left: 17.78%;
+  font-size: 18px;
+  line-height: 157%;
+  font-weight: 900;
+  max-width: 100%;
+}
+.anisa-zahra3,
+.comfortable-and-met3,
+.founder-milenial3 {
+  width: 100%;
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.anisa-zahra3 {
+  top: 79.54%;
+  left: 43.13%;
+  font-size: 16px;
+}
+.founder-milenial3 {
+  top: 85.71%;
+  left: 41.82%;
+  line-height: 24px;
+  opacity: 0.5;
+}
+.cardtestimoni3 {
+  position: absolute;
+  top: 192.3px;
+  left: 2022.3px;
+  width: 645.1px;
+  max-width: 100%;
+}
+.hear-from-the,
+.what-our-artisans {
+  margin: 0;
+  position: absolute;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.hear-from-the {
+  width: 100%;
+  top: 85px;
+  left: 783px;
+  font-size: 24px;
+  line-height: 180%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.what-our-artisans {
+  top: 0;
+  left: 1003px;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: "Frank Ruhl Libre";
+  width: 719px;
+  height: 72px;
+  max-width: 100%;
+}
+.testimoni {
+  position: absolute;
+  top: 6604px;
+  left: -389px;
+  width: 2667.4px;
+  height: 710px;
+  text-align: center;
+  font-size: 14px;
+  color: #34251f;
+  font-family: Lato;
+}
+.discount-icon {
+  position: absolute;
+  top: 5808px;
+  left: 233px;
+  max-height: 100%;
+  width: 1464.4px;
+  max-width: 100%;
+}
+.symbol-organizer {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #413631;
+  width: 1921px;
+  height: 330.4px;
+  max-width: 100%;
+}
+.artisanshub-all-right {
+  position: absolute;
+  top: 237.1px;
+  left: 743.1px;
+  line-height: 32px;
+  text-transform: capitalize;
+  display: inline-block;
+  width: 436.2px;
+  height: 42.6px;
+  opacity: 0.67;
+  max-width: 100%;
+}
+.artworks,
+.paintings1,
+.sculptures1 {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+  min-width: 102px;
+}
+.artworks,
+.sculptures1 {
+  min-width: 108px;
+}
+.sculptures1 {
+  min-width: 119px;
+}
+.pottery2 {
+  min-width: 86px;
+}
+.contact-us,
+.faq,
+.pottery2 {
+  position: relative;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  font-weight: 900;
+  display: inline-block;
+}
+.contact-us {
+  line-height: 19.2px;
+  min-width: 118px;
+  white-space: nowrap;
+}
+.faq {
+  min-width: 38px;
+}
+.menu1 {
+  position: absolute;
+  top: 133.2px;
+  left: 555px;
+  width: 812.4px;
+  height: 25.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 45px;
+  text-align: left;
+  font-size: 16px;
+}
+.footer,
+.image-importer {
+  position: absolute;
+  left: 0;
+  max-width: 100%;
+}
+.footer {
+  width: 100%;
+  top: 7757.6px;
+  text-align: center;
+  font-size: 14px;
+  color: #fff;
+  font-family: Lato;
+}
+.image-importer {
+  top: 0;
+  background-color: #fff;
+  width: 638.1px;
+  height: 95.9px;
+}
+.artisanshub8,
+.follow-our-instagram {
+  position: absolute;
+  top: 0;
+  text-transform: capitalize;
+  display: inline-block;
+  height: 34.6px;
+}
+.follow-our-instagram {
+  width: 100%;
+  left: 0;
+  min-width: 172px;
+}
+.artisanshub8 {
+  left: 305px;
+  width: 205.1px;
+}
+.follow-our-instagram-parent {
+  position: absolute;
+  top: 30.7px;
+  left: 64px;
+  width: 510.2px;
+  height: 34.6px;
+}
+.instagram,
+.instagram1 {
+  position: absolute;
+  width: 638.1px;
+}
+.instagram1 {
+  top: 0;
+  left: 0;
+  max-width: 100%;
+}
+.instagram {
+  top: 7707px;
+  left: 640.7px;
+  height: 95.9px;
+  font-size: 22px;
+  font-family: Lato;
+}
+.add-to-cart8 {
+  position: absolute;
+  top: 7px;
+  left: 53px;
+  font-size: 17px;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+  min-width: 117px;
+}
+.shopping-cart-icon8 {
+  position: absolute;
+  top: 11px;
+  left: 20px;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.add-to-cart-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  position: absolute;
+  top: 3922px;
+  left: 984px;
+  border-radius: 4px;
+  width: 199px;
+  overflow: hidden;
+}
+.add-to-cart9 {
+  position: absolute;
+  top: 5px;
+  left: 43px;
+  font-size: 20px;
+  text-transform: capitalize;
+  font-family: Monda;
+  color: #fff;
+  text-align: left;
+}
+.shopping-cart-icon9 {
+  position: absolute;
+  top: 10px;
+  left: 11px;
+  width: 22px;
+  height: 22px;
+  overflow: hidden;
+}
+.logic-gate {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: #413531;
+  width: 100%;
+  position: absolute;
+  top: 3922px;
+  left: 1510px;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.landing-page-artisanshub {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 31px;
+  color: #34251f;
+  font-family: "Anek Gurmukhi";
+}
+@media screen and (max-width: 1350px) {
+  .connection-matrix {
+    padding-left: 125px;
+    padding-right: 33px;
+  }
+  .connection-matrix,
+  .footer,
+  .header {
+    box-sizing: border-box;
+  }
+  .header {
+    padding-bottom: 40px;
+  }
+  .footer {
+    gap: 42px;
+    padding-left: 277px;
+    padding-right: 292px;
+  }
+}
+@media screen and (max-width: 925px) {
+  .meet-the-team {
+    font-size: 26px;
+  }
+  .connection-matrix {
+    gap: 20px;
+    padding-left: 62px;
+    box-sizing: border-box;
+  }
+  .enter-the-world,
+  .pottery {
+    font-size: 59px;
+    line-height: 64px;
+  }
+  .pottery {
+    font-size: 36px;
+  }
+  .menu {
+    flex-wrap: wrap;
+  }
+  .header {
+    padding-bottom: 26px;
+    box-sizing: border-box;
+  }
+  .artisanshub6,
+  .artisanshub7 {
+    font-size: 25px;
+  }
+  .branching-logic,
+  .branching-logic1,
+  .image-segmenter {
+    font-size: 32px;
+    line-height: 62px;
+  }
+  .stats {
+    flex-wrap: wrap;
+    gap: 38px;
+    justify-content: center;
+    padding-left: 37px;
+    padding-right: 37px;
+    box-sizing: border-box;
+  }
+  .best-product-since {
+    font-size: 54px;
+    line-height: 62px;
+  }
+  .new-collection1 {
+    font-size: 54px;
+  }
+  .cardbest-seller {
+    gap: 24px;
+  }
+  .cardbest-seller1 {
+    gap: 24px;
+    padding-bottom: 32px;
+    box-sizing: border-box;
+  }
+  .best-seller-products {
+    font-size: 58px;
+  }
+  .our-products {
+    font-size: 45px;
+  }
+  .cardtestimoni,
+  .cardtestimoni1,
+  .cardtestimoni3 {
+    padding-left: 36px;
+    padding-right: 36px;
+    box-sizing: border-box;
+  }
+  .cardtestimoni3 {
+    gap: 21px;
+  }
+  .what-our-artisans {
+    font-size: 38px;
+  }
+  .footer {
+    gap: 21px;
+    padding-left: 138px;
+    padding-right: 146px;
+    box-sizing: border-box;
+  }
+  .landing-page-artisanshub {
+    gap: 26px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .meet-the-team {
+    font-size: 19px;
+  }
+  .connection-matrix {
+    padding-top: 20px;
+    padding-bottom: 70px;
+    box-sizing: border-box;
+  }
+  .discover-unique-handmade {
+    font-size: 19px;
+    line-height: 35px;
+  }
+  .enter-the-world,
+  .pottery {
+    font-size: 44px;
+    line-height: 48px;
+  }
+  .pottery {
+    font-size: 27px;
+  }
+  .artisanshub6,
+  .artisanshub7 {
+    font-size: 19px;
+  }
+  .branching-logic,
+  .branching-logic1,
+  .image-segmenter {
+    font-size: 24px;
+    line-height: 47px;
+  }
+  .stats {
+    gap: 19px;
+  }
+  .unveil-the-charm {
+    font-size: 22px;
+    line-height: 40px;
+  }
+  .best-product-since {
+    font-size: 41px;
+    line-height: 47px;
+  }
+  .discover-our-newest,
+  .discover-our-newest1 {
+    font-size: 19px;
+    line-height: 35px;
+  }
+  .new-collection1 {
+    font-size: 41px;
+  }
+  .pastel-long-sleeve,
+  .pastel-long-sleeve1,
+  .pastel-long-sleeve2 {
+    font-size: 19px;
+  }
+  .shop-our-top-rated {
+    font-size: 19px;
+    line-height: 35px;
+  }
+  .best-seller-products {
+    font-size: 43px;
+  }
+  .add-to-cart,
+  .add-to-cart1,
+  .add-to-cart2,
+  .add-to-cart3,
+  .add-to-cart4,
+  .add-to-cart5,
+  .add-to-cart6,
+  .add-to-cart7,
+  .canva-lickin-good,
+  .empower-plate,
+  .hoodiee-long-sleeve,
+  .musician-kitty,
+  .pastel-long-sleeve3,
+  .pastel-long-sleeve4,
+  .soft-toys-teddy,
+  .unique-dream-catcher {
+    font-size: 16px;
+  }
+  .our-products {
+    font-size: 34px;
+  }
+  .cardtestimoni,
+  .cardtestimoni1,
+  .cardtestimoni3 {
+    padding-top: 26px;
+    padding-bottom: 26px;
+    box-sizing: border-box;
+  }
+  .hear-from-the {
+    font-size: 19px;
+    line-height: 35px;
+  }
+  .what-our-artisans {
+    font-size: 29px;
+  }
+  .artisanshub8,
+  .follow-our-instagram {
+    font-size: 18px;
+  }
+  .add-to-cart9 {
+    font-size: 16px;
+  }
+}
