@@ -108,7 +108,7 @@
   max-width: 100%;
 }
 .enter-username {
-  width: 159px;
+  width: 100%;
   border: 0;
   outline: 0;
   font-family: var(--font-poppins);
@@ -166,7 +166,7 @@
   max-width: 100%;
 }
 .enter-password1 {
-  width: 152px;
+  width: 100%;
   border: 0;
   outline: 0;
   font-family: var(--font-poppins);
@@ -241,6 +241,10 @@
 .create-account {
   text-decoration: underline;
   color: var(--color-royalblue);
+  border: none;
+  background-color: white;
+  padding: 1px;
+  cursor: pointer;
 }
 .dont-have-an-container {
   position: relative;
